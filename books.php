@@ -11,11 +11,6 @@
 </head>
 <body>
     <div id="books">
-        <form action="booklist.php">
-        <input type="radio" name="category">Children
-        <input type="radio" name="category">Finance
-        <input type="radio" name="category">Computers
-        <input type=submit value="list books">
     </div>
 </body>
 </html>
