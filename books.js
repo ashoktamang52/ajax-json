@@ -49,6 +49,10 @@ function showCategories(ajax) {
 }
 
 function listbooks() {
+    // remove child nodes of div id results for fresh results
+    while ($("results").hasChildNodes()) {
+        $("results").removeChild($("results").lastChild);
+    }
     var books = global_books;
     var radios = document.getElementsByName('category');
     var unique_category;
