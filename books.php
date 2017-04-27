@@ -14,14 +14,3 @@
     </div>
 </body>
 </html>
-
-<?php
-// Get communication format
-$format = $_GET["format"];
-
-if ($format == "json") {
-    echo "JSON";
-} else {
-    echo "XML";
-}
-?>
