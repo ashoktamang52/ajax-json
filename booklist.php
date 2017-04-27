@@ -1,3 +1,5 @@
 <?php
-    echo $_GET["format"];
+    // dummy data
+    $categories = array("Children", "Computers", "Finance");
+    echo "hello";
 ?>
