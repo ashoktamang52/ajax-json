@@ -8,6 +8,7 @@ function getCategories() {
 }
 
 function showCategories(ajax) {
+    console.log(ajax.responseXML);
     var categories = ajax.responseXML.getElementsByTagName("category");
 
     // create form
