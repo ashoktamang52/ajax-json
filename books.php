@@ -10,7 +10,7 @@
     <script src="books.js" type="text/javascript"></script>
 </head>
 <body>
-    <div id="books">
-    </div>
+    <div id="books"></div>
+    <div id="results"></div>
 </body>
 </html>
