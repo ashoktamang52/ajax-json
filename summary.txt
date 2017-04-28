@@ -1,0 +1,59 @@
+commit a0f8a53c32db42ff8409e9968cc6c3e420633f9f
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 22:47:09 2017 -0400
+
+    add sql dump and submission readme
+
+commit 768b19e3fd21a4bf1a62eb568c6bcff2ce54bc72
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 12:48:57 2017 -0400
+
+    remove child nodes of "results" id to populate the div area with new search finds.
+
+commit 039bd8c1406d5463a91ea2231cff3b1f6f7d8051
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 12:45:58 2017 -0400
+
+    populate html page with books results from given category
+
+commit 4a7addcc34cddcb37a5cf1968dce77250940d991
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 11:31:46 2017 -0400
+
+    get categories from booklist.php
+
+commit e15e9daa7e1048bd861661e83b962cc350eb3e24
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 08:39:33 2017 -0400
+
+    retrieve books info from database and store it as XML
+
+commit bbcb3f118d8239eb32ed989b012e1de497cf7431
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 08:24:51 2017 -0400
+
+    access data from ajax responseXML
+
+commit 7303d74db68e2acccf274feff76c2eefd7333694
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 06:09:35 2017 -0400
+
+    Initialize database and dummy data
+
+commit acea7088b6ae190fbff9bc96ff41047246436106
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 04:03:46 2017 -0400
+
+    create dummy data to  implment Ajax Request
+
+commit 13a8484543437b00ec13ea145824cc97c138f9bc
+Author: Ashok Tamang <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 03:44:13 2017 -0400
+
+    Initialize required files with skeleton code.
+
+commit cc2b4e242c06fe8945c9e031835dcf2e08144b76
+Author: ashoktamang52 <ashok.tamang@bison.howard.edu>
+Date:   Thu Apr 27 02:59:16 2017 -0400
+
+    Create README.md
